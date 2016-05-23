@@ -1,0 +1,36 @@
+======================================================================================
+Milestone 2 Status Report
+======================================================================================
+
+Meeting Dates:
+	-1/18/15, noon (Completed entire milestone, took 2 hours)
+
+Group Members:
+	-Eric Downing
+	-Tyler Rockwood
+	-Kevin Trizna
+
+What was to be done:
+	-Utilize the interrupt 0x10 feature
+	-printString function
+	-Interrupt 0x16 and readString
+	-Interrupt 0x13 and readSector
+	-Create a user-defined interrupt handler
+	-Create and use a unique interrupt21
+	
+
+What the group completed:
+	-All the interrupts and functions
+
+Issues We encountered:
+	-Nothing substantial
+	
+
+Looking forward to milestone 2 (Due 1/28/15):
+	-Create a shell
+	-Get to know the file system
+	-Load and print files
+	-Execute programs
+
+
+FINAL STATUS: Green light, nothing remaining to do. Group can proceed freely.

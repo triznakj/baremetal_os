@@ -1,0 +1,40 @@
+Group 1E
+M4 User Stories
+1/27/15
+
+
+
+User Stories for Milestone 4
+
+1. Write Sector
+
+As a user, I want a BIOS call that will allow me to write to sectors.
+TIME: 40 min
+
+
+2. Delete a File
+
+As a user, I want a function that will allow me to delete a file.
+TIME: 40 min
+
+3. Writing a file
+
+As a user, I want a function that will allow me to write a file to the disk.
+TIME: 40 min
+
+4. Copying a File
+
+As a user, I want to be abe to make a copy of a file without deleting the original.
+TIME: 40 min
+
+5. Listing The Directory Commands
+
+As a user, I want a function that will allow me to see a list of all files in the directory.
+TIME: 40 min
+
+6. Creating a Text File
+
+As a user, I want a function that will allow me to create a new text file.
+TIME: 40 min
+
+Total TIME: 4 hrs

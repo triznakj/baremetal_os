@@ -1,0 +1,39 @@
+Each user story should give a single line description of something that the USER can do with your software.  Be sure to give an estimate of the time you think it will take for you to complete each user story.  Be sure to also give a total time estimation for this milestone.
+
+Group 1E
+User Stories
+1/15/15
+
+
+User Stories for MileStone 2
+
+1. Interrupt 0x10
+
+As a user, I want to be able to call “interrupt 0x10” to print out the letter 'Q';
+
+2. printString
+
+As a user, I want to be able to call a function “printString” that will take a C string and return “void”,
+this function will allow the C string to be seen on screen.
+
+3. Interrupt 0x16 and readString
+
+As a user, when I press a key I want it to produce the interrupt of 0x16 and return the correct ASCII code for the key pressed. 
+
+As a user, I want a readString function that will take an empty char array with space for at least 80 chars.
+
+4. Interrupt 0x13 and readSector
+
+As a user, I want interrupt 0x13 to read and write sectors from the floppy disc. 
+
+As a user, I want a readSector function that will take two arguments (char *buffer and int) and will read the indicated sector.
+
+5. User Defined Interrupt Handler
+
+As a user, I want a 0x21 interrupt handler that, when called, will run my code.
+
+6. Improved User Defined Interrupt Handler
+
+As a user, I want my 0x21 interrupt handler to provide printString, readString, and readSector services.
+
+

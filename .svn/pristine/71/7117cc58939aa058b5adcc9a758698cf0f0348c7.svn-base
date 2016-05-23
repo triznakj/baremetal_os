@@ -1,0 +1,55 @@
+Group 1E
+M3 User Stories
+1/25/15
+
+
+
+User Stories for Milestone 3
+
+1. The File System
+
+As a user, I want to have a system to keep a record of names and sectors of files on the disk.
+TIME: 20 min
+
+
+2. Initial Map and Directory
+
+As a user, I want to files map.img and dir.img to contain a Map and Directory for a file system.
+TIME: 20 min
+
+3. Load File
+
+As a user, I want to be able to read a file and write it to floppy.img, modifying the Map and Directory appropriately.
+TIME: 20 min
+
+4. Load A File and Print It
+
+As a user, I want to have a function that will read in a text file and print it out into the console.
+TIME: 20 min
+
+5. Load A Program and Execute It
+
+As a user, I want to be able to load a program into memory and execute it.
+TIME: 20 min
+
+6. Terminate Program System Call
+
+As a user, I want to have a terminate program function that will return the OS when a program has finished running. 
+TIME: 40 min
+
+7. The Shell
+
+As a user, I want to have a shell that will allow me to enter commands that can be parsed by the OS. 
+Time: 20 min
+
+8. Shell Command: type "filename"
+
+As a user, I want my shell to be able to take in the command "type" and then a "message", and print out the message into the console.
+Time: 20 min
+
+9. Shell Command: execute "filename"
+
+As a user, I want my shell to be able to take in the command "execute" and then a "filename", and load, store, and run a given program. 
+Time: 20 min
+
+Total TIME: 3 hrs 20 min

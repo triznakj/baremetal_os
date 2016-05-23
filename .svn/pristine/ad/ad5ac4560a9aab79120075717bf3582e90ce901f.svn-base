@@ -1,0 +1,33 @@
+======================================================================================
+Milestone 1 Status Report
+======================================================================================
+
+Meeting Dates:
+	-1/12/15 (Completed milestone, took 1 hour)
+
+Group Members:
+	-Eric Downing
+	-Tyler Rockwood
+	-Kevin Trizna
+
+What was to be done:
+	-Download all software and assemble Bochs to make sure it is running
+	-Create a Kernel that displays Hello World by using the putInMemory() function.
+
+What the group completed:
+	-Download all software
+	-Create Hello World Kernel
+
+Issues We encountered:
+	-[FIXED] problem with kernel.asm that caused the letters to not display.
+	
+
+Looking forward to milestone 2 (Due 1/21/15):
+	-Create an interrupt in assembly
+	-printString() function
+	-readString() function
+	-readSector() function
+	-Interrupt Handler
+
+
+FINAL STATUS: Green light, nothing remaining to do. Group can proceed freely.

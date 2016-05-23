@@ -1,0 +1,76 @@
+Group 1E
+M5 User Stories
+2/4/15
+
+
+
+User Stories for Milestone 5
+
+1. Multitasking
+
+As a user, I want a premptive scheduler and I want memory management.
+TIME: ## min
+
+2. Memory Management
+
+As a user, I want to be able to use segmented memory.
+TIME: ## min
+
+3. Scheduling
+
+As a user, I want a scheduler that will choose a process to start running.
+TIME: ## min
+
+4. Loading and Terminating
+
+As a user, I want to load and terminate processes when I want to. 
+TIME: ## min
+
+5. Timer Interrupt
+
+As a user, I want to have a function to make a timer interrupt and one to handle a timer interrupt .
+TIME: ## min
+
+6. Process Table 
+
+As a user, I want table that will hold a procress entry that contains a process active boolean
+and a process stack pointer.
+TIME: ## min
+
+7. Load Program
+
+As a user, I want to load a program using the ProcessEntryTable and to initializeProgram, terminate,
+setKernelDataSegment, and enableInterrupts with given functions. 
+TIME: ## min
+
+8. Scheduling CONT
+
+As a user, I want the scheduler to use round robin and loop throught the process table
+in order to choose the next process.
+TIME: ## min
+
+9. Kill Process
+
+As a user, I want to have a kill function that will terminate a current process via an interrupt
+and I want it to be its own shell command.
+TIME: ## min
+
+10. Process Blocking
+
+As a user, I want to have a shell command that will block all other programs to be blocked until
+the given one terminates
+TIME: ## min
+
+11. Optional Features
+
+As a user, I want a clear command that will clear the console.
+TIME: ## min
+
+As a user, I want an up button to scroll through what was printed on the screen.
+TIME: ## min
+
+As a user, I want to have the tab button be an auto-complete when typing commands.
+TIME : ## min
+
+
+Total TIME: ## hrs

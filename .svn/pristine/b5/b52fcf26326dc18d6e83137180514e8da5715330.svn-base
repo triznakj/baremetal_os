@@ -1,0 +1,48 @@
+======================================================================================
+Milestone 4 Status Report
+======================================================================================
+
+Meeting Dates:
+	-1/25/15, noon (Completed entire milestone, took 4 hours)
+
+Group Members:
+	-Eric Downing
+	-Tyler Rockwood
+	-Kevin Trizna
+
+What was to be done:
+	-Write Sector
+	-Delete File
+	-Write File
+	-Copy File
+	-Dir command
+	-Creating text files
+	
+
+What the group completed:
+	-Everything in checklist
+	-added a reverse atoi command [DEBUG]
+	-made a printChar command [DEBUG]
+
+Issues We encountered:
+	-At first we couldn't get our written files to be read back
+	to us. We discovered that the cause of this error was because we 
+	weren't exiting on a null character while checking for the file name.
+	
+
+Looking forward to milestone 5 (Due 2/11/15):
+	Multitasking
+		-Timer Interrupts
+		-Process Tables
+	Load Programs
+		-Terminate
+		-setKernelDataSegment
+		-enableInterrupts
+	Scheudling
+		-Testing
+		-Kill Processes
+	Any optional Features
+	Reflection
+
+FINAL STATUS: GREEN. Group can proceed
+		

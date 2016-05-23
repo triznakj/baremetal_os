@@ -1,0 +1,18 @@
+=======================================================
+	HELP - Group 1E Bare Metal OS
+=======================================================
+Available Commands:
+
+Print file to screen - type <filename>
+Execute program in mem - execute <progname>
+copy a file - copy <srcFile> <dstFile>
+show directory - dir
+create text file - create <filename>
+delete file - delete <filename>
+kill a process - kill<pid>
+Execute in foreground - execforeground <filename>
+quit the os - quit
+get help - help
+
+Fun Commands:
+WE DON'T HAVE FUN HERE

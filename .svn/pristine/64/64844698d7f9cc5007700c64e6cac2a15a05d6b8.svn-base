@@ -1,0 +1,40 @@
+======================================================================================
+Milestone 3 Status Report
+======================================================================================
+
+Meeting Dates:
+	-1/25/15, noon (Completed entire milestone, took 3.5 hours)
+
+Group Members:
+	-Eric Downing
+	-Tyler Rockwood
+	-Kevin Trizna
+
+What was to be done:
+	-Modify Build Script
+	-Load and print a file
+	-Load a program and execute it
+	-Terminate System Call
+	-Build a Shell
+	-Complete 'type' and 'execute' commands on shell
+	
+
+What the group completed:
+	-Modify Build Script
+	-Load/Print the file
+	-Load/execute program
+	-Build shell, complete commands
+
+Issues We encountered:
+	-Tespr2 doesn't seem to be calling our terminate function
+	-We learned we have to declare all variables at the top of the
+	function in order fo rthe sytem to read it properly.
+	-[UPDATED] Tespr2 is working now
+	
+
+Looking forward to milestone 2 (Due 2/4/15):
+	-Write to a file
+
+
+FINAL STATUS: GREEN [updated 1/26/15] Group is set to go ahead.
+		

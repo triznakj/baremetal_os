@@ -1,0 +1,31 @@
+======================================================================================
+Milestone 5 Status Report
+======================================================================================
+
+Meeting Dates:
+	-2/4 (2 hours)
+	-2/8 (4 hours)
+	-2/10 (3 hours)
+
+Group Members:
+	-Eric Downing
+	-Tyler Rockwood
+	-Kevin Trizna
+
+What was to be done:
+	-Get multiprocessing, scheduling, and blocking working
+	-Do any optional features
+	
+
+What the group completed:
+	-Everything in checklist
+	-Prepared for presentation
+
+Issues We encountered:
+	-Issue in which the shell would sometimes load and sometimes not.
+	This was attributed to our shell and kernel being too large to
+	load and partially because we were running the shell before actually
+	starting it. These issues have been fixed.
+
+FINAL STATUS: GREEN. OS has been completed as specified!
+		
